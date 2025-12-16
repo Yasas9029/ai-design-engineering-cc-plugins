@@ -1,6 +1,6 @@
 {
   "name": "ai-design-engineer",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Human-first AI Design Engineer toolkit with 6 specialized personas for resilient agentic systems: Blueprompt (app specs), Brooks (JTBD methodology), Agenisea (multi-agent architecture), Argus (security), Angel (backend systems), and Bliss (human-centered UX).",
   "author": {
     "name": "Patrick Peña"
