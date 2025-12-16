@@ -1,3 +1,5 @@
+![AI Design Engineer](logo.png)
+
 # Human-first AI Design Engineer Plugin for Claude Code
 
 **Design resilient agentic applications with human-first methodology.**
