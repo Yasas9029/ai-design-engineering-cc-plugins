@@ -2,9 +2,9 @@
 
 # Human-first AI Design Engineer Plugin for Claude Code
 
-**Design resilient agentic applications with human-first methodology.**
+**Design resilient, production-ready agentic applications using human-first methodology.**
 
-Six specialized personas guide you from initial concept through production-ready systems—all within Claude Code.
+Six specialized personas guide you from initial concept through production-ready systems—all within Claude Code. Each persona owns a distinct architectural concern, mirroring how real-world engineering teams operate.
 
 ## The Problem
 
@@ -12,7 +12,7 @@ Building agentic applications requires expertise across multiple domains: produc
 
 ## The Solution
 
-This plugin provides six expert personas that work together to create cohesive, resilient agentic systems:
+This plugin provides six expert personas that work together to create cohesive, resilient agentic systems. Rather than optimizing for raw generation speed, each persona is designed to reason about intent, tradeoffs, and long-term system health.
 
 - **Blueprompt** — Transform rough ideas into structured specifications
 - **Brooks** — Design with human-first Jobs To Be Done methodology
@@ -21,7 +21,7 @@ This plugin provides six expert personas that work together to create cohesive, 
 - **Angel** — Design scalable, maintainable backend systems
 - **Bliss** — Create distinctive, human-centered interfaces
 
-**Typical flow:** Blueprompt → Brooks → Agenisea → Argus → Angel → Bliss
+**Typical flow (recommended, but flexible):** Blueprompt → Brooks → Agenisea → Argus → Angel → Bliss
 
 ## How It Works
 
@@ -108,7 +108,7 @@ Expert Agentic Application Security Architect. Designs layered defenses for agen
 - Security Checklist
 
 ### Angel
-Expert Backend Systems Architect. Designs scalable, maintainable backend systems with clean contracts and reliability patterns.
+Expert Backend Systems Architect. Designs scalable, maintainable backend systems with clean contracts and designed-for reliability.
 
 **Outputs:**
 - System & Risk Assessment
@@ -190,7 +190,7 @@ Build a dashboard for analytics with:
 - Framework: React + Tailwind
 ```
 
-## Security
+## Security & Trust Model
 
 This plugin follows security best practices:
 
@@ -224,6 +224,12 @@ Ways to contribute:
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
+## Who This Is For
+
+- Engineers designing agentic systems that must survive real-world complexity
+- Teams tired of monolithic "do-everything" agents
+- Builders who care about trust, maintainability, and human impact
 
 ## Links
 
