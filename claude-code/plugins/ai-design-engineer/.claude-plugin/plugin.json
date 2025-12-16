@@ -1,7 +1,7 @@
 {
   "name": "ai-design-engineer",
   "version": "1.0.1",
-  "description": "Human-first AI Design Engineer toolkit with 5 specialized personas for resilient agentic systems: Blueprompt (app specs), Brooks (JTBD methodology), Agenisea (multi-agent architecture), Argus (security), and Bliss (human-centered UX).",
+  "description": "Human-first AI Design Engineer toolkit with 6 specialized personas for resilient agentic systems: Blueprompt (app specs), Brooks (JTBD methodology), Agenisea (multi-agent architecture), Argus (security), Angel (backend systems), and Bliss (human-centered UX).",
   "author": {
     "name": "Patrick Peña"
   },
@@ -26,20 +26,25 @@
     "agentic-system-design",
     "agentic",
     "agent-security",
-    "agent-auth"
+    "agent-auth",
+    "backend-architecture",
+    "backend-systems",
+    "reliability-engineering"
   ],
   "commands": [
     "./commands/bliss.md",
     "./commands/blueprompt.md",
     "./commands/agenisea.md",
     "./commands/brooks.md",
-    "./commands/argus.md"
+    "./commands/argus.md",
+    "./commands/angel.md"
   ],
   "agents": [
     "./agents/blueprompt.md",
     "./agents/brooks.md",
     "./agents/agenisea.md",
     "./agents/argus.md",
-    "./agents/bliss.md"
+    "./agents/bliss.md",
+    "./agents/angel.md"
   ]
 }

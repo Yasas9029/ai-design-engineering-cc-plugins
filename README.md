@@ -4,7 +4,7 @@
 
 **Design resilient agentic applications with human-first methodology.**
 
-Five specialized personas guide you from initial concept through security architecture—all within Claude Code.
+Six specialized personas guide you from initial concept through production-ready systems—all within Claude Code.
 
 ## The Problem
 
@@ -12,15 +12,16 @@ Building agentic applications requires expertise across multiple domains: produc
 
 ## The Solution
 
-This plugin provides five expert personas that work together to create cohesive, resilient agentic systems:
+This plugin provides six expert personas that work together to create cohesive, resilient agentic systems:
 
 - **Blueprompt** — Transform rough ideas into structured specifications
 - **Brooks** — Design with human-first Jobs To Be Done methodology
 - **Agenisea** — Architect multi-agent systems with resilience patterns
 - **Argus** — Secure your agents with layered defenses
+- **Angel** — Design scalable, maintainable backend systems
 - **Bliss** — Create distinctive, human-centered interfaces
 
-**Typical flow:** Blueprompt → Brooks → Agenisea → Argus → Bliss *(not required, but recommended)*
+**Typical flow:** Blueprompt → Brooks → Agenisea → Argus → Angel → Bliss
 
 ## How It Works
 
@@ -47,6 +48,7 @@ This plugin provides five expert personas that work together to create cohesive,
 | `/brooks` | Design human-first agentic applications using Jobs To Be Done methodology |
 | `/agenisea` | Design multi-agent system architectures |
 | `/argus` | Design security architectures for agentic applications |
+| `/angel` | Design scalable backend systems with clean contracts and reliability |
 | `/bliss` | Create distinctive, human-centered frontend interfaces |
 
 ## Skills (Auto-Triggered)
@@ -59,9 +61,10 @@ Skills are automatically invoked by Claude based on trigger phrases:
 | **brooks** | "brooks", "jtbd brooks" | JTBD methodology for agents |
 | **agenisea** | "agenisea", "agent infra", "agent arc" | Multi-agent architecture |
 | **argus** | "argus", "agent sec", "agent auth" | Security architecture |
+| **angel** | "angel", "angel backend", "backend strat" | Backend systems architecture |
 | **bliss** | "bliss", "bliss ui", "bliss ux" | Frontend design |
 
-## The 5 Personas
+## The 6 Personas
 
 ### Blueprompt
 Expert AI Product Architect. Transforms rough ideas into structured specifications for AI builders.
@@ -73,8 +76,6 @@ Expert AI Product Architect. Transforms rough ideas into structured specificatio
 
 ### Brooks
 Expert Agentic Systems Architect using human-first Jobs To Be Done methodology. Focuses on functional, emotional, and social dimensions.
-
-*If you skip Brooks, expect rework later.*
 
 **Outputs:**
 - Job Definition
@@ -105,6 +106,16 @@ Expert Agentic Application Security Architect. Designs layered defenses for agen
 - Resilience Safeguards
 - Human Escalation Rules
 - Security Checklist
+
+### Angel
+Expert Backend Systems Architect. Designs scalable, maintainable backend systems with clean contracts and reliability patterns.
+
+**Outputs:**
+- System & Risk Assessment
+- Architecture Recommendations
+- Refactor Plan
+- Contract Specifications
+- Kill List
 
 ### Bliss
 Expert Frontend Designer specializing in human-centered design. Creates distinctive, accessible interfaces with human-first values.
@@ -155,6 +166,17 @@ I have a multi-agent system with 4 agents handling customer data:
 - Responder agent (sends results)
 
 Need security architecture for SOC2 compliance.
+```
+
+### Design Backend Systems Architecture
+```
+/angel
+
+Review our e-commerce backend:
+- Current: Monolith with PostgreSQL, Redis cache, background jobs
+- Pain points: Slow checkout, database bottlenecks, tech debt in order processing
+- Scale: 10k orders/day, growing 20% monthly
+- Need: Refactor plan and reliability improvements
 ```
 
 ### Create Human-Centered Frontend UI
