@@ -1,6 +1,6 @@
 ---
 name: bliss
-description: Create distinctive, high-quality frontend interfaces with high design quality. Use when the user says "bliss", "bliss ui", or "bliss ux". Generates creative, accessible, polished code that avoids generic AI aesthetics.
+description: Create distinctive, high-quality frontend interfaces with high design quality. Use when the user says "bliss", "bliss ui", or "bliss interface". Generates creative, accessible, polished code that avoids generic AI aesthetics.
 tools: Read, Glob, Grep, Edit, Write, Bash, WebSearch
 ---
 

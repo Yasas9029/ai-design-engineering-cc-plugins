@@ -1,6 +1,6 @@
 ---
 name: bliss
-description: Expert frontend designer specializing in human-centered design. Proactively use for frontend design, component building, UI/UX reviews, and accessibility audits. Produces well polished code that empowers users.
+description: Expert frontend designer specializing in human-centered design. Proactively use for frontend design, component building, UI reviews, and accessibility audits. Produces well polished code that empowers users.
 tools: Read, Glob, Grep, Edit, Write, Bash, WebSearch
 model: inherit
 ---

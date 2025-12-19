@@ -4,7 +4,7 @@
 
 **Design resilient, production-ready agentic applications using human-first methodology.**
 
-Six specialized personas guide you from initial concept through production-ready systems—all within Claude Code. Each persona owns a distinct architectural concern, mirroring how real-world engineering teams operate.
+Seven specialized personas guide you from initial concept through production-ready systems—all within Claude Code. Each persona owns a distinct architectural concern, mirroring how real-world engineering teams operate.
 
 ## The Problem
 
@@ -12,16 +12,17 @@ Building agentic applications requires expertise across multiple domains: produc
 
 ## The Solution
 
-This plugin provides six expert personas that work together to create cohesive, resilient agentic systems. Rather than optimizing for raw generation speed, each persona is designed to reason about intent, tradeoffs, and long-term system health.
+This plugin provides seven expert personas that work together to create cohesive, resilient agentic systems. Rather than optimizing for raw generation speed, each persona is designed to reason about intent, tradeoffs, and long-term system health.
 
 - **Blueprompt** — Transform rough ideas into structured specifications
 - **Brooks** — Design with human-first Jobs To Be Done methodology
 - **Agenisea** — Architect multi-agent systems with resilience patterns
 - **Argus** — Secure your agents with layered defenses
 - **Angel** — Design scalable, maintainable backend systems
+- **Clarity** — Human-first UX research; solve the right problem before solving it beautifully
 - **Bliss** — Create distinctive, human-centered interfaces
 
-**Typical flow (recommended, but flexible):** Blueprompt → Brooks → Agenisea → Argus → Angel → Bliss
+**Typical flow (recommended, but flexible):** Blueprompt → Brooks → Agenisea → Argus → Angel → Clarity → Bliss
 
 ## How It Works
 
@@ -49,6 +50,7 @@ This plugin provides six expert personas that work together to create cohesive, 
 | `/agenisea` | Design multi-agent system architectures |
 | `/argus` | Design security architectures for agentic applications |
 | `/angel` | Design scalable backend systems with clean contracts and reliability |
+| `/clarity` | Human-first UX research, wireframes, and information architecture |
 | `/bliss` | Create distinctive, human-centered frontend interfaces |
 
 ## Skills (Auto-Triggered)
@@ -62,9 +64,10 @@ Skills are automatically invoked by Claude based on trigger phrases:
 | **agenisea** | "agenisea", "agent infra", "agent arc" | Multi-agent architecture |
 | **argus** | "argus", "agent sec", "agent auth" | Security architecture |
 | **angel** | "angel", "angel backend", "backend strat" | Backend systems architecture |
-| **bliss** | "bliss", "bliss ui", "bliss ux" | Frontend design |
+| **clarity** | "clarity", "clarity ux", "ux research" | UX research & strategy |
+| **bliss** | "bliss", "bliss ui", "bliss interface" | Frontend design |
 
-## The 6 Personas
+## The 7 Personas
 
 ### Blueprompt
 Expert AI Product Architect. Transforms rough ideas into structured specifications for AI builders.
@@ -116,6 +119,15 @@ Expert Backend Systems Architect. Designs scalable, maintainable backend systems
 - Refactor Plan
 - Contract Specifications
 - Kill List
+
+### Clarity
+Expert UX Strategist specializing in human-first, evidence-based design decisions. Ensures we solve the right problem before solving it beautifully.
+
+**Outputs:**
+- Research Insights (user needs, hypotheses)
+- Structure Artifacts (IA diagrams, user flows, wireframes)
+- Validation Criteria (success metrics, test scenarios)
+- Handoff Package for visual design
 
 ### Bliss
 Expert Frontend Designer specializing in human-centered design. Creates distinctive, accessible interfaces with human-first values.
@@ -177,6 +189,17 @@ Review our e-commerce backend:
 - Pain points: Slow checkout, database bottlenecks, tech debt in order processing
 - Scale: 10k orders/day, growing 20% monthly
 - Need: Refactor plan and reliability improvements
+```
+
+### Design Human-first UX Strategy & Wireframes
+```
+/clarity
+
+Design the onboarding flow for a developer tool:
+- Users: Junior developers new to CI/CD
+- Pain: Confused about where to start, too many options
+- Goal: 80% complete setup without support tickets
+- Need: User flows, wireframes, and validation criteria
 ```
 
 ### Create Human-Centered Frontend UI

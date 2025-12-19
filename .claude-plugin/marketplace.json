@@ -5,15 +5,15 @@
   },
   "metadata": {
     "description": "Human-first AI Design Engineer toolkit for Claude Code by Agenisea™",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "repository": "https://github.com/agenisea/ai-design-engineering-cc-plugins"
   },
   "plugins": [
     {
       "name": "ai-design-engineer",
       "source": "./claude-code/plugins/ai-design-engineer",
-      "description": "Human-first AI Design Engineer toolkit with 6 specialized personas for resilient agentic systems: Blueprompt (app specs), Brooks (JTBD methodology), Agenisea (multi-agent architecture), Argus (security), Angel (backend systems), and Bliss (human-centered UX).",
-      "version": "1.1.0",
+      "description": "Human-first AI Design Engineer toolkit with 7 specialized personas for resilient agentic systems: Blueprompt (app specs), Brooks (JTBD methodology), Agenisea (multi-agent architecture), Argus (security), Angel (backend systems), Clarity (human-first UX research & strategy), and Bliss (human-centered UI).",
+      "version": "1.2.0",
       "author": {
         "name": "Patrick Peña"
       },
@@ -41,7 +41,12 @@
         "agent-auth",
         "backend-architecture",
         "backend-systems",
-        "reliability-engineering"
+        "reliability-engineering",
+        "ux-research",
+        "ux-strategy",
+        "information-architecture",
+        "user-research",
+        "wireframing"
       ]
     }
   ]
